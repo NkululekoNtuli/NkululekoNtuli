@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 🌱 I’m currently learning backend development and APIs
